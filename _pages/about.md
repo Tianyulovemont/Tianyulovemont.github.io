@@ -63,9 +63,8 @@ Hi! I'm Weizhuo Li, currently a 3rd-year master in Electronic Information - Comp
 
 
 
-# 💬 Journal Reviewer
+# 💻 Journal Reviewer
 - IEEE Transactions on Image Processing
 
-# 💻 Scholarly Exchange
-- *2025.11 - 2026.02*, University of Science and Technology of China, China.
+
 
