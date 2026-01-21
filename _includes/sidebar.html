@@ -1,6 +1,9 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    <div style="margin-top: 20px;">
+        <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI"></script>
+    </div>
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
