@@ -1,6 +1,11 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    <div class="custom-sidebar-widget" style="margin-top: 20px; text-align: center;">
+      <p style="font-size: 0.8em; color: #777;">Visitors</p> <div style="width: 100%; max-width: 160px; margin: 0 auto;">
+        <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI"></script>
+      </div>
+    </div>
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
