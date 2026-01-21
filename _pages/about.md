@@ -47,7 +47,7 @@ Hi! I'm Weizhuo Li (李玮琢), currently a 3rd-year master in Electronic Inform
 
 # 📝 Patents
 
-- *2025.09* Yue Xi; Zehao Zhang;，**Weizhuo Li**; Zhiwen Wei; Xiaochen Fan; Junmei Feng; Fei Li; Qiguang Miao. (ZL202510350182.3).
+- *2025.09* 郗岳; 张泽浩;，**李玮琢**; 魏志文; 范晓宸; 冯军美; 李飞; 苗启广. 《基于自正则化点监督的无人机视角目标检测方法及系统》(专利号: ZL202510350182.3).
 
 
 # 🎖 Honors and Awards
