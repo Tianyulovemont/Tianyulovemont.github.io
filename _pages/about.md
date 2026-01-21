@@ -66,8 +66,4 @@ Hi! I'm Weizhuo Li, currently a 3rd-year master in Electronic Information - Comp
 # 💻 Journal Reviewer
 - IEEE Transactions on Image Processing
 
-# 🌍 Visitor Map
-<div style="height: 250px;width: 250px;margin-left: 40px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI"></script>
-</div>
 
