@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weizhuo Li (李玮琢)"
+title                    : "Weizhuo Li"
 description              : "Focusing on Computer Vision, Weakly Supervised Learning, Deep Learning and 3D Object Navigation"
 repository               : "https://github.com/Tianyulovemont"
 google_scholar_stats_use_cdn : true
